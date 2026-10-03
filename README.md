@@ -8,10 +8,11 @@ Always looking forward to learn more about programming 💻
 ## The "Other Things" 😎
 
 Listening to or playing music 🎧🎸  
-Doing sports, mostly running 🏃  
-Chilling with
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  
-Reading mangas or books sometimes 📚
+Doing sports, mostly running 🏃
+Reading mangas or books sometimes 📚  
+  
+If not one of those, simply chilling with
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 📺  
 
 ## Last but not least... VIDEOGAMES !!! 🎮
 
@@ -22,17 +23,17 @@ Reading mangas or books sometimes 📚
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 
-### Retrogaming 💾  
+### Retrogaming platforms 💾  
 
 ![Playstation](https://img.shields.io/badge/playstation-%230070D1.svg?style=for-the-badge&logo=playstation&logoColor=white)
 ![Playstation2](https://img.shields.io/badge/playstation2-%23003791.svg?style=for-the-badge&logo=playstation2&logoColor=white)
 ![Playstation3](https://img.shields.io/badge/playstation3-%23003791.svg?style=for-the-badge&logo=playstation3&logoColor=white)  
-Also Xbox 360, Wii, GameBoy, Gameboy Advance SP, Nintendo DS, PSP...📃  
+Also Xbox 360, Wii, GameBoy, Gameboy Advance SP, Nintendo DS, PSP, the list goes on...📃  
 Love emulation and frontends as well, on pc or with devices like Anbernic to set up and tinker with 🔌  
 
 ### Favorite games
 
-- Old school shooters (The OG DooM and DooM 2, Duke Nukem 3D, Shadow Warrior, Blood):feelsgood:
+- Old school shooters (The OG DooM and DooM 2, Duke Nukem 3D, Shadow Warrior, Blood) :feelsgood:
 - FPS (Half-Life, Left 4 Dead, DooM(2016) and its sequels, Cultic, Selaco) :godmode:
 - RPG (Oblivion, Skyrim, Divinity Original Sin, Witcher, Fallout) ⚔️
 - RTS (Age Of Empire and Warcraft III even though I suck at them 😅)
