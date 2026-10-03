@@ -17,12 +17,17 @@ Reading mangas or books sometimes 📚
 
 ### Gaming platforms 💽
 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
-Retrogaming 💾  
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+
+### Retrogaming 💾  
+
 ![Playstation](https://img.shields.io/badge/playstation-%230070D1.svg?style=for-the-badge&logo=playstation&logoColor=white)
 ![Playstation2](https://img.shields.io/badge/playstation2-%23003791.svg?style=for-the-badge&logo=playstation2&logoColor=white)
 ![Playstation3](https://img.shields.io/badge/playstation3-%23003791.svg?style=for-the-badge&logo=playstation3&logoColor=white)  
-Also Xbox 360, Wii, GameBoy, Gameboy Advance SP, Nintendo DS, PSP...  
+Also Xbox 360, Wii, GameBoy, Gameboy Advance SP, Nintendo DS, PSP...📃  
 Love emulation and frontends as well, on pc or with devices like Anbernic to set up and tinker with 🔌  
 
 ### Favorite games
