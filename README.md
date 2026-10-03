@@ -5,14 +5,22 @@
 Passionate about technology and computer science among other things :neckbeard:  
 Always looking forward to learn more about programming 💻
 
+## Languages and technologies 👓
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
+![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ## The "Other Things" 😎
 
 Listening to or playing music 🎧🎸  
-Doing sports, mostly running 🏃
+Doing sports, mostly running 🏃  
 Reading mangas or books sometimes 📚  
-  
-If not one of those, simply chilling with
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 📺  
+If not one of those, probably chilling with
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
 
 ## Last but not least... VIDEOGAMES !!! 🎮
 
@@ -35,7 +43,7 @@ Love emulation and frontends as well, on pc or with devices like Anbernic to set
 
 - Old school shooters (The OG DooM and DooM 2, Duke Nukem 3D, Shadow Warrior, Blood) :feelsgood:
 - FPS (Half-Life, Left 4 Dead, DooM(2016) and its sequels, Cultic, Selaco) :godmode:
-- RPG (Oblivion, Skyrim, Divinity Original Sin, Witcher, Fallout) ⚔️
+- RPG (Golden Sun, Oblivion, Skyrim, Divinity Original Sin, Witcher, Fallout) ⚔️
 - RTS (Age Of Empire and Warcraft III even though I suck at them 😅)
 - Minecraft, Project Zomboid as games I always come back to... 👀
 - GTA as an honorable mention 😉
