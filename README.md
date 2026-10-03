@@ -24,8 +24,9 @@ Fun fact : Favorite tech wizard => John Carmack :godmode:
 ## The "Other Things" 😎
 
 Listening to or playing music 🎧🎸  
-Doing sports, mostly running 🏃  🌱
+Doing sports, mostly running 🏃  
 Reading mangas or books sometimes 📚  
+  
 If not one of those, probably chilling with
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
 
